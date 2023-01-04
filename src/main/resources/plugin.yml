@@ -1,0 +1,7 @@
+name: EventDebug
+main: xyz.acrylicstyle.eventdebug.EventDebug
+version: 1.0.0
+api-version: 1.13
+commands:
+  eventdebug:
+    permission: eventdebug.command.eventdebug
